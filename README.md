@@ -10,7 +10,7 @@ Interpretable and Adaptive Graph Contrastive Learning with Information Sharing f
 - cudatoolkit 12.6
 - pytorch 2.1.0
 - dgl 2.0.0
-- Rdkit 2024.3.5 
+- rdkit 2024.3.5 
 - numpy 1.26.4
 - scikit-learn 1.5.1
 
