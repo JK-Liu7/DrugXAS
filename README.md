@@ -29,8 +29,3 @@ Execute ```python train_finetune.py --pre_train True``` for pre-training
 Execute ```python train_finetune.py --pre_train False``` for fine-tuning with the pre-trained models in ```./model_save/```
 ### Cold-start Prediction
 Execute ```python train_cold.py --pre_train False``` for fine-tuning under cold-start settings with the pre-trained models in ```./model_save/```
-
-## Feedback
-
-If you have any issue about this work, please feel free to contact me by email: 
-* Liujk1997@gmail.com
