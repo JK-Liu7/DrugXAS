@@ -2,7 +2,7 @@
 Interpretable and Adaptive Graph Contrastive Learning with Information Sharing for Biomedical Link Prediction
 
 <p align="center">
-  <img src='./assets/Architecture.png' width="800">
+  <img src='./assets/Architecture.png' width="600">
 </p>
 
 ## Requirements:
